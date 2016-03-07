@@ -1,0 +1,69 @@
+body, p, legend, label, input {
+
+    font: normal 8pt verdana, helvetica, sans-serif;
+
+}
+
+img {
+
+	display : block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+
+fieldset {
+
+    padding: 10px;
+
+    border: 1px #0568CD solid;
+
+}
+
+
+legend {
+
+    font-weight: bold;
+	
+	font-size: 10pt;
+
+    color: #0568CD;
+
+}
+
+span {
+
+	font-weight: bold;
+
+}
+
+ 
+td { 
+
+	border-width:1px;
+	
+	border-style:solid; 
+	
+	border-color:#0568CD;
+	
+	padding: 2px 2px 2px 2px;
+
+ }
+  
+ .submit {
+ 
+	font-size: 10pt;
+	
+	font-weight: bold;
+	
+	margin: 10px 10px 10px 10px;
+
+ }
+
+.grey {
+
+	background-color: #CCCCCC;
+
+}

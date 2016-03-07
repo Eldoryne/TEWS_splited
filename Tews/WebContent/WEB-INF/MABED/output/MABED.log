@@ -1,0 +1,14 @@
+MABED: Mention-Anomaly-Based Event Detection
+18:26:41 Loaded corpus:
+   - time-slices: 116 time-slices of 10 minutes each
+   - first message: 2015-06-04 00:00:00.0
+   - last message: 2015-06-04 19:19:27.0 (0.0 days)
+   - number of messages: 29,848
+-------------------------
+18:26:41 MABED is running
+-------------------------
+   - min suppport = 0.001, max support = 0.01, p = 10, theta = 0.7, sigma = 0.5
+   - computation time: .14s + 1.16s + .08s = 1.37s
+--------------------
+18:26:42 MABED ended
+--------------------
